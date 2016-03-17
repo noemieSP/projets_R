@@ -1,1 +1,1 @@
-# text_mining_R
+# Projets de fouille de données et de textmining
